@@ -1,36 +1,25 @@
 {
-    "name": "ngx-mat-intl-tel-input",
-    "version": "4.1.0",
+    "name": "ngx-mat-intl-tel-input-plus",
+    "version": "5.0.0",
     "peerDependencies": {
-        "@angular/common": "~13.0.0",
-        "@angular/core": "~13.0.0",
-        "@angular/forms": "~13.0.0",
-        "@angular/platform-browser": "~13.0.0",
-        "@angular/platform-browser-dynamic": "~13.0.0",
-        "libphonenumber-js": "^1.9.41"
+        "@angular/common": "~14.0.5",
+        "@angular/core": "~14.0.5",
+        "@angular/forms": "~14.0.5",
+        "@angular/platform-browser": "~14.0.5",
+        "@angular/platform-browser-dynamic": "~14.0.5",
+        "libphonenumber-js": "^1.10.7"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/tanansatpal/ngx-mat-intl-tel-input"
+        "url": "git+https://github.com/mpiru/ngx-mat-intl-tel-input-plus"
     },
     "author": {
-        "name": "Satpal Tanan",
-        "email": "tanansatpal@gmail.com"
+        "name": "mpiru"
     },
     "keywords": [
         "angular",
         "material",
-        "ng2",
-        "ng4",
-        "ng5",
-        "ng6",
-        "ng7",
-        "ng8",
-        "ng9",
-        "ng10",
-        "ng11",
-        "ng12",
-        "ng13",
+        "ng14",
         "intl-tel-input",
         "ng-intl-tel-input",
         "phone number",
@@ -48,6 +37,6 @@
     ],
     "license": "MIT",
   "dependencies": {
-    "tslib": "^2.3.1"
+    "tslib": "^2.4.0"
   }
 }
